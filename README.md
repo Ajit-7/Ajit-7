@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ajit Gupta</h1>
 <h3 align="center">A passionate Application and Web developer from India</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://mir-s3-cdn-cf.behance.net/projects/max_808/6dc5de68097599.Y3JvcCwzNzI5LDI5MTcsNjM2LDA.jpg">
