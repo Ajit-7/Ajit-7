@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajit Gupta</h1>
 <h3 align="center">A passionate Application and Web developer from India</h3>
-<img align="right" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" widht="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit-7&label=Profile%20views&color=0e75b6&style=flat" alt="ajit-7" /> </p>
 
 - 🌱 I’m currently learning **Kotlin**
