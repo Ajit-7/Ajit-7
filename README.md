@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ajit Gupta</h1>
 <h3 align="center">A passionate Application and Web developer from India</h3>
-<img align="right" alt="Coding" width="500" height="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit-7&label=Profile%20views&color=0e75b6&style=flat" alt="ajit-7" /> </p>
 
 - 🌱 I’m currently learning **Kotlin**
